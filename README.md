@@ -24,5 +24,5 @@ This repository contains a Java project that implements a REST API from scratch 
 
 ### 1. Clone the repository
 ```bash
-git clone [<REPO_URL>](https://github.com/arcesoftware/spring-boot-rest-api)
+git clone https://github.com/arcesoftware/spring-boot-rest-api
 cd spring-boot-rest-api
